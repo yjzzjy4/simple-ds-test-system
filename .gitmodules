@@ -1,0 +1,6 @@
+[submodule "libs/spdk"]
+	path = libs/spdk
+	url = git@github.com:spdk/spdk.git
+[submodule "libs/raft"]
+	path = libs/raft
+	url = git@github.com:yjzzjy4/raft.git
